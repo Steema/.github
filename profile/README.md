@@ -7,8 +7,6 @@
 - [TeeChart .NET](https://www.steema.com/product/net)
   - [Pro examples](https://github.com/Steema/TeeChart-NET-Pro-Samples)
   - [Business examples](https://github.com/Steema/TeeChart-NET-Business-Samples)
-  - [WinForms examples](https://github.com/Steema/TeeChart-for-.NET-CSharp-WinForms-samples)
-  - [Xamarin.iOS examples](https://github.com/Steema/TeeChart-.NET-for-Xamarin.iOS-Unified-samples)
 - [TeeChart JavaScript](https://www.steema.com/product/html5) [sources and examples](https://github.com/Steema/TeeChart-JavaScript-Samples)
 - [TeeChart Java](https://www.steema.com/product/java) [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
 
