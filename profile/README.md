@@ -3,7 +3,9 @@
 
 [![teechart](https://user-images.githubusercontent.com/1788228/148073705-b97d1b13-11b1-46c1-9cf0-dcfe282214f4.png)](https://www.steema.com)
 
-- [TeeChart VCL/FMX](https://www.steema.com/product/vcl) [examples](https://github.com/Steema/TeeChart-VCL-FMX-Samples)
+- [TeeChart VCL/FMX](https://www.steema.com/product/vcl)
+  - [VCL examples](https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/VCL)
+  - [FMX examples](https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/FMX)
 - [TeeChart .NET](https://www.steema.com/product/net)
   - [Pro examples](https://github.com/Steema/TeeChart-NET-Pro-Samples)
   - [Business examples](https://github.com/Steema/TeeChart-NET-Business-Samples)
