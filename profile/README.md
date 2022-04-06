@@ -10,6 +10,7 @@
   - [Pro examples](https://github.com/Steema/TeeChart-NET-Pro-Samples)
   - [Business examples](https://github.com/Steema/TeeChart-NET-Business-Samples)
   - [Avalonia examples](https://github.com/Steema/TeeChart-Avalonia-Samples)
+  - [Blazor examples](https://github.com/Steema/TeeChart-NET-Pro-Samples/tree/main/Blazor)
 - [TeeChart JavaScript](https://www.steema.com/product/html5) [sources and examples](https://github.com/Steema/TeeChart-JavaScript-Samples)
 - [TeeChart Java](https://www.steema.com/product/java) [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
 - [TeeChart ActiveX](https://www.steema.com/product/ax) [examples](https://github.com/Steema/TeeChart-ActiveX-Samples)
