@@ -11,14 +11,19 @@
   - [Business examples](https://github.com/Steema/TeeChart-NET-Business-Samples)
   - [Avalonia examples](https://github.com/Steema/TeeChart-Avalonia-Samples)
   - [Blazor examples](https://github.com/Steema/TeeChart-NET-Pro-Samples/tree/main/Blazor)
-- [TeeChart JavaScript](https://www.steema.com/product/html5) [sources and examples](https://github.com/Steema/TeeChart-JavaScript-Samples)
-- [TeeChart Java](https://www.steema.com/product/java) [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
-- [TeeChart ActiveX](https://www.steema.com/product/ax) [examples](https://github.com/Steema/TeeChart-ActiveX-Samples)
+- [TeeChart JavaScript](https://www.steema.com/product/html5)
+  - [Sources and examples](https://github.com/Steema/TeeChart-JavaScript-Samples)
+- [TeeChart Java](https://www.steema.com/product/java)
+  - [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
+- [TeeChart ActiveX](https://www.steema.com/product/ax)
+  - [examples](https://github.com/Steema/TeeChart-ActiveX-Samples)
 
 [![teegrid](https://user-images.githubusercontent.com/1788228/148073636-5d5cb38a-e2bb-4472-97c1-f9e7f2283884.png)](https://www.steema.com)
 
-- [TeeGrid VCL/FMX](https://www.steema.com/product/gridvcl) [examples](https://github.com/Steema/TeeGrid-VCL-FMX-Samples)
-- [TeeGrid .NET](https://www.steema.com/product/gridnet) [examples](https://github.com/Steema/TeeGrid-NET-Samples)
+- [TeeGrid VCL/FMX](https://www.steema.com/product/gridvcl)
+  - [examples](https://github.com/Steema/TeeGrid-VCL-FMX-Samples)
+- [TeeGrid .NET](https://www.steema.com/product/gridnet)
+  - [examples](https://github.com/Steema/TeeGrid-NET-Samples)
 
 ---
 
