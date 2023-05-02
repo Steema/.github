@@ -24,3 +24,4 @@
 
 - [TeeBI examples](https://github.com/Steema/Steema-BI-Samples)
 - [Steema Numerics examples](https://github.com/Steema/Steema-Numerics-Samples)
+- [Delphi Inspect tool](https://github.com/Steema/Delphi_Inspect)
