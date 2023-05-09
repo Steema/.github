@@ -12,7 +12,7 @@
   - [Avalonia examples](https://github.com/Steema/TeeChart-Avalonia-Samples)
   - [Blazor examples](https://github.com/Steema/TeeChart-NET-Pro-Samples/tree/main/Blazor)
 - [TeeChart JavaScript](https://www.steema.com/product/html5)
-  - [Sources and examples](https://github.com/Steema/TeeChart-JS)
+  - [Sources and examples](https://github.com/Steema/TeeChartJS)
 - [TeeChart Java](https://www.steema.com/product/java)
   - [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
 - [TeeChart ActiveX](https://www.steema.com/product/ax)
