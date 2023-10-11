@@ -1,7 +1,8 @@
 
 [![SteemaSoftware](https://user-images.githubusercontent.com/1788228/148072537-782b51e0-02f4-45dc-a28c-9d7c590c5cc3.png)](https://www.steema.com)
 
-[![teechart](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274160634-0fe254e1-1314-4dfd-bf80-f330d7708bef.png)](https://www.steema.com)
+[![teechart](https://user-images.githubusercontent.com/1788228/148073705-b97d1b13-11b1-46c1-9cf0-dcfe282214f4.png)](https://www.steema.com#gh-light-mode-only)
+[![teechart](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274162575-66dad01c-7d95-4296-89c2-119a3d021468.png)](https://www.steema.com#gh-dark-mode-only)
 
 - [TeeChart VCL/FMX](https://www.steema.com/product/vcl)
   - [VCL examples](https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/VCL)
@@ -19,7 +20,8 @@
 - [TeeChart ActiveX](https://www.steema.com/product/ax)
   - [examples](https://github.com/Steema/TeeChart-ActiveX-Samples)
 
-[![teegrid](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274160883-70805b5a-8627-45f6-aa18-8366dd860299.png)](https://www.steema.com)
+[![teegrid](https://user-images.githubusercontent.com/1788228/148073636-5d5cb38a-e2bb-4472-97c1-f9e7f2283884.png)](https://www.steema.com#gh-light-mode-only)
+[![teegrid](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274162573-57ab4453-e542-4a43-8533-99bf23da5cc0.png)](https://www.steema.com#gh-dark-mode-only)
 
 - [TeeGrid VCL/FMX](https://www.steema.com/product/gridvcl)
   - [examples](https://github.com/Steema/TeeGrid-VCL-FMX-Samples)
