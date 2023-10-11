@@ -2,12 +2,13 @@
 [![SteemaSoftware](https://user-images.githubusercontent.com/1788228/148072537-782b51e0-02f4-45dc-a28c-9d7c590c5cc3.png)](https://www.steema.com)
 
 [![teechart](https://user-images.githubusercontent.com/1788228/148073705-b97d1b13-11b1-46c1-9cf0-dcfe282214f4.png)](https://www.steema.com#gh-light-mode-only)
-[![teechart](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274162575-66dad01c-7d95-4296-89c2-119a3d021468.png)](https://www.steema.com#gh-dark-mode-only)
+[![teechart](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165678-7062ed4e-15a6-4ba2-a263-6ead80000cef.png)](https://www.steema.com#gh-dark-mode-only)
 
 - [TeeChart VCL/FMX](https://www.steema.com/product/vcl)
   - [VCL examples](https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/VCL)
   - [FMX examples](https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/FMX)
 - [TeeChart .NET](https://www.steema.com/product/net)
+
   - [Pro examples](https://github.com/Steema/TeeChart-NET-Pro-Samples)
   - [Business examples](https://github.com/Steema/TeeChart-NET-Business-Samples)
   - [Avalonia examples](https://github.com/Steema/TeeChart-Avalonia-Samples)
@@ -21,7 +22,7 @@
   - [examples](https://github.com/Steema/TeeChart-ActiveX-Samples)
 
 [![teegrid](https://user-images.githubusercontent.com/1788228/148073636-5d5cb38a-e2bb-4472-97c1-f9e7f2283884.png)](https://www.steema.com#gh-light-mode-only)
-[![teegrid](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274162573-57ab4453-e542-4a43-8533-99bf23da5cc0.png)](https://www.steema.com#gh-dark-mode-only)
+[![teegrid](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165672-571dba9e-1e06-456a-a5e7-20936dc92256.png)](https://www.steema.com#gh-dark-mode-only)
 
 - [TeeGrid VCL/FMX](https://www.steema.com/product/gridvcl)
   - [examples](https://github.com/Steema/TeeGrid-VCL-FMX-Samples)
