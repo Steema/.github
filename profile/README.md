@@ -16,10 +16,10 @@
 
 - [TeeChart JavaScript](https://www.steema.com/product/html5)
   - [Sources and examples](https://gitlab.com/Steema/teechartjs)
-- [TeeChart Java](https://www.steema.com/product/java)
-  - [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
 - [TeeChart ActiveX](https://www.steema.com/product/ax)
   - [examples](https://github.com/Steema/TeeChart-ActiveX-Samples)
+- [TeeChart Java](https://www.steema.com/product/java) (discontinued)
+  - [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
 
 [![teegrid](https://user-images.githubusercontent.com/1788228/148073636-5d5cb38a-e2bb-4472-97c1-f9e7f2283884.png)](https://www.steema.com#gh-light-mode-only)
 [![teegrid](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165672-571dba9e-1e06-456a-a5e7-20936dc92256.png)](https://www.steema.com#gh-dark-mode-only)
