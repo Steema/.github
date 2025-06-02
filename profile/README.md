@@ -1,8 +1,10 @@
 
 [![SteemaSoftware](https://user-images.githubusercontent.com/1788228/148072537-782b51e0-02f4-45dc-a28c-9d7c590c5cc3.png)](https://www.steema.com)
 
-[![teechart](https://user-images.githubusercontent.com/1788228/148073705-b97d1b13-11b1-46c1-9cf0-dcfe282214f4.png)](https://www.steema.com#gh-light-mode-only)
-[![teechart](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165678-7062ed4e-15a6-4ba2-a263-6ead80000cef.png)](https://www.steema.com#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165678-7062ed4e-15a6-4ba2-a263-6ead80000cef.png">
+  <img alt="TeeChart logo" src="https://user-images.githubusercontent.com/1788228/148073705-b97d1b13-11b1-46c1-9cf0-dcfe282214f4.png">
+</picture>
 
 - [TeeChart VCL/FMX](https://www.steema.com/product/vcl)
   - [VCL examples](https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/VCL)
@@ -21,16 +23,20 @@
 - [TeeChart Java](https://www.steema.com/product/java) (discontinued)
   - [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
 
-[![teegrid](https://user-images.githubusercontent.com/1788228/148073636-5d5cb38a-e2bb-4472-97c1-f9e7f2283884.png)](https://www.steema.com#gh-light-mode-only)
-[![teegrid](https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165672-571dba9e-1e06-456a-a5e7-20936dc92256.png)](https://www.steema.com#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165672-571dba9e-1e06-456a-a5e7-20936dc92256.png">
+  <img alt="TeeGrid" src="https://user-images.githubusercontent.com/1788228/148073636-5d5cb38a-e2bb-4472-97c1-f9e7f2283884.png">
+</picture>
 
 - [TeeGrid VCL/FMX](https://www.steema.com/product/gridvcl)
   - [examples](https://github.com/Steema/TeeGrid-VCL-FMX-Samples)
 - [TeeGrid .NET](https://www.steema.com/product/gridnet)
   - [examples](https://github.com/Steema/TeeGrid-NET-Samples)
 
-[![teebi](https://github.com/user-attachments/assets/5455da0f-7c47-438a-97ee-f32f468700bd)](https://github.com/Steema/TeeBI#gh-light-mode-only)
-[![teebi](https://github.com/user-attachments/assets/31fcc8b9-6d2f-45c0-bd0d-8f5cee460821)](https://github.com/Steema/TeeBI#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/31fcc8b9-6d2f-45c0-bd0d-8f5cee460821">
+  <img alt="TeeBI" src="https://github.com/user-attachments/assets/5455da0f-7c47-438a-97ee-f32f468700bd">
+</picture>
 
 - [TeeBI VCL/FMX](https://github.com/Steema/TeeBI)
 
