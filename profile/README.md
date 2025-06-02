@@ -29,8 +29,12 @@
 - [TeeGrid .NET](https://www.steema.com/product/gridnet)
   - [examples](https://github.com/Steema/TeeGrid-NET-Samples)
 
+[![teebi](https://github.com/user-attachments/assets/5455da0f-7c47-438a-97ee-f32f468700bd)](https://github.com/Steema/TeeBI#gh-light-mode-only)
+[![teebi](https://github.com/user-attachments/assets/31fcc8b9-6d2f-45c0-bd0d-8f5cee460821)](https://github.com/Steema/TeeBI#gh-dark-mode-only)
+
+- [TeeBI VCL/FMX](https://github.com/Steema/TeeBI)
+
 ---
 
-- [TeeBI examples](https://github.com/Steema/Steema-BI-Samples)
 - [Steema Numerics examples](https://github.com/Steema/Steema-Numerics-Samples)
 - [Delphi Inspect tool](https://github.com/Steema/Delphi_Inspect)
