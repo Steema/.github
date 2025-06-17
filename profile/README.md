@@ -20,8 +20,6 @@
   - [Sources and examples](https://gitlab.com/Steema/teechartjs)
 - [TeeChart ActiveX](https://www.steema.com/product/ax)
   - [examples](https://github.com/Steema/TeeChart-ActiveX-Samples)
-- [TeeChart Java](https://www.steema.com/product/java) (discontinued)
-  - [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/1788228/274165672-571dba9e-1e06-456a-a5e7-20936dc92256.png">
@@ -30,8 +28,6 @@
 
 - [TeeGrid VCL/FMX](https://www.steema.com/product/gridvcl)
   - [examples](https://github.com/Steema/TeeGrid-VCL-FMX-Samples)
-- [TeeGrid .NET](https://www.steema.com/product/gridnet)
-  - [examples](https://github.com/Steema/TeeGrid-NET-Samples)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/31fcc8b9-6d2f-45c0-bd0d-8f5cee460821">
@@ -44,3 +40,13 @@
 
 - [Steema Numerics examples](https://github.com/Steema/Steema-Numerics-Samples)
 - [Delphi Inspect tool](https://github.com/Steema/Delphi_Inspect)
+
+---
+
+### Discontinued products
+
+- [TeeChart Java](https://www.steema.com/product/java)
+  - [examples](https://github.com/Steema/TeeChart-JAVA-Samples)
+
+- [TeeGrid .NET](https://www.steema.com/product/gridnet) 
+  - [examples](https://github.com/Steema/TeeGrid-NET-Samples)
