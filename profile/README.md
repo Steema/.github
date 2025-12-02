@@ -51,5 +51,5 @@
 - [TeeGrid .NET](https://www.steema.com/product/gridnet) 
   - [examples](https://github.com/Steema/TeeGrid-NET-Samples)
 
-- [TeeTree VCL / FMX](https://github.com/TeeTree)
+- [TeeTree VCL / FMX](https://github.com/Steema/TeeTree)
   
