@@ -81,6 +81,7 @@
 
 ## Other
 
+### [TeeTree VCL / FMX](https://github.com/Steema/TeeTree)
 ### [Steema Numerics examples](https://github.com/Steema/Steema-Numerics-Samples)
 ### [Delphi Inspect tool](https://github.com/Steema/Delphi_Inspect)
 
@@ -89,12 +90,15 @@
 ## Discontinued products
 
 ### [TeeChart Java](https://www.steema.com/product/java)
-#### Main examples
-  - [Examples](https://github.com/Steema/TeeChart-JAVA-Samples)
+<dl><dd>
+  <ul>
+    <li><a href="https://github.com/Steema/TeeChart-JAVA-Samples">Examples</a></li>
+  </ul>
+</dd></dl>
 
 ### [TeeGrid .NET](https://www.steema.com/product/gridnet) 
-#### Main examples
-  - [Examples](https://github.com/Steema/TeeGrid-NET-Samples)
-
-- [TeeTree VCL / FMX](https://github.com/Steema/TeeTree)
-  
+<dl><dd>
+  <ul>
+    <li><a href="https://github.com/Steema/TeeGrid-NET-Samples">Examples</a></li>
+  </ul>
+</dd></dl>
