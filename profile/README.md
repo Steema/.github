@@ -84,6 +84,7 @@
 ### [TeeTree VCL / FMX](https://github.com/Steema/TeeTree)
 ### [Steema Numerics examples](https://github.com/Steema/Steema-Numerics-Samples)
 ### [Delphi Inspect tool](https://github.com/Steema/Delphi_Inspect)
+### [MotoGP Telemetry Example](https://github.com/Steema/MotoGP)
 
 ---
 
