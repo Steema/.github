@@ -79,6 +79,9 @@
 
 ---
 
+## [TeeChart for R Language / RStudio](https://github.com/Steema/TeeChart-for-R)
+
+
 ## Other
 
 ### [TeeTree VCL / FMX](https://github.com/Steema/TeeTree)
