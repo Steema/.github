@@ -50,6 +50,10 @@
   </ul>
 </dd></dl>
 
+## [TeeChart for R Language / RStudio](https://github.com/Steema/TeeChart-for-R)
+
+## [TeeChart for Python](https://github.com/Steema/TeeChart-for-Python)
+
 ---
 
 <div align="center">
@@ -78,9 +82,6 @@
 ## [TeeBI VCL/FMX](https://github.com/Steema/TeeBI)
 
 ---
-
-## [TeeChart for R Language / RStudio](https://github.com/Steema/TeeChart-for-R)
-
 
 ## Other
 
