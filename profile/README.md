@@ -7,6 +7,8 @@
   </picture>
 </div>
 
+<img width="48" height="48" alt="Embarcadero RAD Studio Delphi logo" src="https://github.com/user-attachments/assets/99556de1-887b-4b53-8a55-601f62a01775" />
+
 ## [TeeChart VCL/FMX](https://www.steema.com/product/vcl)
 
 <dl><dd>
@@ -22,6 +24,10 @@
   </ul>
 </dd></dl>
 
+##
+
+<img width="80" height="48" alt="dotnet" src="https://github.com/user-attachments/assets/b5a087b9-2c8e-49a8-a29a-fb1d8e3a0c7d" />
+
 ## [TeeChart .NET](https://www.steema.com/product/net)
 
 <dl><dd>
@@ -34,6 +40,10 @@
   </ul>
 </dd></dl>
 
+##
+
+<img width="80" height="80" alt="javascript-logo" src="https://github.com/user-attachments/assets/9a4fb172-bfa6-40bc-a22c-05e627458022" />
+
 ## [TeeChart JavaScript](https://www.steema.com/product/js)
 
 <dl><dd>
@@ -41,6 +51,10 @@
     <li><a href="https://gitlab.com/Steema/teechartjs">Sources and examples</a></li>
   </ul>
 </dd></dl>
+
+##
+
+<img width="157" height="91" alt="image" src="https://github.com/user-attachments/assets/9a5b7be1-80a4-4781-97fc-bd9da8729caf" />
 
 ## [TeeChart ActiveX](https://www.steema.com/product/ax)
 
@@ -50,7 +64,16 @@
   </ul>
 </dd></dl>
 
-## [TeeChart for R Language / RStudio](https://github.com/Steema/TeeChart-for-R)
+##
+
+<img src="https://www.r-project.org/logo/Rlogo.svg" width="60" alt="R Language logo">
+
+## [TeeChart for R Language / RStudio](https://github.com/Steema/TeeChart-for-R)  
+
+##
+
+<img width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/b0ea3f10-368c-4a18-8a53-32ec4206f500" />
+
 
 ## [TeeChart for Python](https://github.com/Steema/TeeChart-for-Python)
 
