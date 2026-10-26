@@ -9,18 +9,13 @@
 
 <img width="48" height="48" alt="Embarcadero RAD Studio Delphi logo" src="https://github.com/user-attachments/assets/99556de1-887b-4b53-8a55-601f62a01775" />
 
-## [TeeChart VCL/FMX](https://www.steema.com/product/vcl)
+## [TeeChart for RAD Studio Delphi / C++ Builder](https://www.steema.com/product/vcl)
 
 <dl><dd>
   <h3>Main examples</h3>
   <ul>
     <li><a href="https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/VCL">VCL examples</a></li>
     <li><a href="https://github.com/Steema/TeeChart-VCL-FMX-Samples/tree/main/FMX">FMX examples</a></li>
-  </ul>
-  <h3>Utilities</h3>
-  <ul>
-    <li><a href="https://github.com/Steema/TeeChart-VCL-ChartEditor-Diff">ChartEditor-Diff</a></li>
-    <li><a href="https://github.com/Steema/TeeChart-VCL-GitHub-Contributions">GitHub-Contributions</a></li>
   </ul>
 </dd></dl>
 
@@ -54,7 +49,7 @@
 
 ##
 
-<img width="157" height="91" alt="image" src="https://github.com/user-attachments/assets/9a5b7be1-80a4-4781-97fc-bd9da8729caf" />
+<img width="200" height="115" alt="image" src="https://github.com/user-attachments/assets/8615a5c3-5c07-4fe0-942a-5b31432f9112" />
 
 ## [TeeChart ActiveX](https://www.steema.com/product/ax)
 
@@ -74,10 +69,19 @@
 
 <img width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/b0ea3f10-368c-4a18-8a53-32ec4206f500" />
 
-
 ## [TeeChart for Python](https://github.com/Steema/TeeChart-for-Python)
 
+##
+
+<img width="144" height="144" alt="image" src="https://github.com/user-attachments/assets/0998a9fa-f9c5-4276-afd2-abf8d53e5236" />
+
+## [TeeChart crate for Rust language](https://github.com/Steema/TeeChart-for-Rust)  
+
 ---
+
+##
+##
+##
 
 <div align="center">
   <picture>
@@ -112,6 +116,9 @@
 ### [Steema Numerics examples](https://github.com/Steema/Steema-Numerics-Samples)
 ### [Delphi Inspect tool](https://github.com/Steema/Delphi_Inspect)
 ### [MotoGP Telemetry Example](https://github.com/Steema/MotoGP)
+
+### [Tool: ChartEditor-Diff](https://github.com/Steema/TeeChart-VCL-ChartEditor-Diff)
+### [Tool: GitHub-Contributions](https://github.com/Steema/TeeChart-VCL-GitHub-Contributions) 
 
 ---
 
